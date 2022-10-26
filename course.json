@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "img": "https://fariafarzanamukta.github.io/course/image/1.png",
+      "img": "https://fariafarzanamukta.github.io/couse-data/image/1.png",
       "sector": "Programming",
       "title": "Mastering Javascript",
       "description": "Basic to Advance JavaScript and ES6 For You",
@@ -9,7 +9,7 @@
     },
     {
       "id": "2",
-      "img": "https://fariafarzanamukta.github.io/course/image/2.png",
+      "img": "https://fariafarzanamukta.github.io/couse-data/image/2.png",
       "sector": "Scripting language",
       "title": "Beginner To Advance PHP Course",
       "description": "A popular general-purpose scripting language that is especially suited to web development.",
@@ -17,7 +17,7 @@
     },
     {
       "id": "3",
-      "img": "https://fariafarzanamukta.github.io/course/image/3.png",
+      "img": "https://fariafarzanamukta.github.io/couse-data/image/3.png",
       "sector": "Js Library",
       "title": "React.js",
       "description": "A JavaScript library for building user interfaces.Build encapsulated components that manage their own state",
