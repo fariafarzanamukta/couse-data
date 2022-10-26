@@ -1,0 +1,74 @@
+[
+    {
+      "id": "1",
+      "img": "https://fariafarzanamukta.github.io/course/image/1.png",
+      "sector": "Programming",
+      "title": "Mastering Javascript",
+      "description": "Basic to Advance JavaScript and ES6 For You",
+      "price": 3000
+    },
+    {
+      "id": "2",
+      "img": "https://fariafarzanamukta.github.io/course/image/2.png",
+      "sector": "Scripting language",
+      "title": "Beginner To Advance PHP Course",
+      "description": "A popular general-purpose scripting language that is especially suited to web development.",
+      "price": 4500
+    },
+    {
+      "id": "3",
+      "img": "https://fariafarzanamukta.github.io/course/image/3.png",
+      "sector": "Js Library",
+      "title": "React.js",
+      "description": "A JavaScript library for building user interfaces.Build encapsulated components that manage their own state",
+      "price": 3500
+    },
+    {
+      "id": "4",
+      "img": "https://fariafarzanamukta.github.io/course/image/4.png",
+      "sector": "CSS framework",
+      "title": "Tailwind-CSS",
+      "description": "A utility-first CSS framework packed with classes.It  can be composed to build any design.",
+      "price": 2000
+    },
+    {
+      "id": "5",
+      "img": "https://fariafarzanamukta.github.io/course/image/5.jpg",
+      "sector": "Marketing ",
+      "title": "Digital Marketing",
+      "description": "Insights. Ideas. Inspiration.Complete digital marketing course for all of the major Platform",
+      "price": 3000
+    },
+    {
+      "id": "6",
+      "img": "https://fariafarzanamukta.github.io/course/image/6.webp",
+      "sector": "FrameWork",
+      "title": "Flutter App Development",
+      "description": "Flutter transforms the app development process. Build, test, and deploy beautiful mobile, web, desktop",
+      "price": 4000
+    },
+    {
+      "id": "7",
+      "img": "https://fariafarzanamukta.github.io/course/image/7.jpeg",
+      "sector": "Search engine",
+      "title": "SEO",
+      "description": "Search Engine Optimization Specialist.The process of optimizing websites so that they rank well on search engines",
+      "price": 3700
+    },
+    {
+      "id": "8", 
+      "img": "https://fariafarzanamukta.github.io/course/image/8.jpg",
+      "sector": "Data-flow architecture",
+      "title": "Redux",
+      "description": "A Predictable State Container for JS Apps,Learn Redux,Redux-toolkit.Rtk-query",
+      "price": 1999
+    },
+    {
+      "id": "9",
+      "img": "https://fariafarzanamukta.github.io/course/image/9.webp",
+      "sector": "Design",
+      "title": "Front-End Development",
+      "description": "Complete frontend course with HTML, CSS, JavaScript and JavaScript framework React",
+      "price": 3000
+    }
+  ]
